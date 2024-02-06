@@ -323,7 +323,7 @@ nav ul li a:hover::after{
 }
 .btn{
   display: block;
-  margin: 50px auto;
+  margin: 10px 0px;
   width: fit-content;
   border: 1px solid #ff004f;
   padding: 14px 50px;
@@ -357,6 +357,7 @@ form .btn2{
   padding: 14px 60px;
   font-size: 18px;
   margin-top: 20px;
+  margin-bottom: 40px;
   cursor: pointer;
 }
 .copyright{
@@ -367,10 +368,10 @@ form .btn2{
   font-weight: 300;
   margin-top: 20px;
 }
-.gif{
+/* .gif{
   margin-left: 60%;
   transform: translateY(-250px);
-}
+} */
 /*---------- css for small screens---------*/
 nav .fa-solid{
   display: none;
